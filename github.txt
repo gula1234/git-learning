@@ -1,2 +1,2 @@
 This file was created on GitHub.
-This line was added after cloning.
+Hello from conflict-test
